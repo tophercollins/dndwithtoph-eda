@@ -1,4 +1,4 @@
-# DnDwithToph Exploratory Data Analysis
+# DnDwithToph.com Exploratory Data Analysis
 
 This analysis aims to improve the data collected from [DnDwithToph.com](https://dndwithtoph.com/) earnings through running adventures on [Outschool.com](https://outschool.com/) and provide valuable insights. The project involves data preprocessing, transformation, and initial observations. Below is an overview of the steps taken in the analysis.
 
